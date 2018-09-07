@@ -4,9 +4,9 @@
     <img style="vertical-align: top;" src="./asset/logo.png?raw=true" alt="logo" height="50px">
 </a>
 
-ECharts is a free, powerful charting and visualization library offering an easy way of adding intuitive, interactive, and highly customizable charts to your commercial products. It is written in pure JavaScript and based on <a href="https://github.com/ecomfe/zrender">zrender</a>, which is a whole new lightweight canvas library.
+NCharts is a free, powerful charting and visualization library offering an easy way of adding intuitive, interactive, and highly customizable charts to your commercial products. It is written in pure JavaScript and based on <a href="https://github.com/ecomfe/zrender">zrender</a>, which is a whole new lightweight canvas library.
 
-Now ECharts is an incubator project of Apache Software Foundation.
+Now NCharts is an incubator project of Apache Software Foundation.
 Please check its incubator status [here](http://incubator.apache.org/projects/echarts.html)
 
 **[中文官网](http://echarts.baidu.com)** | **[ENGLISH HOMEPAGE](https://echarts.apache.org/index.html)**
